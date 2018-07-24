@@ -23,12 +23,9 @@ Logged in users will be able to see an overview of their posts via a calendar vi
 - MongoDB
 - Java
 - Sprint REST
-- Vue
-- Javascript
-- Sass
-- Vuex
+- Ionic
 
 ### What I'll Have to Learn
-I'll have to learn how to use Vue and Vuex, as well as building on my limited knowledge of Javascript, Sass, and Spring REST.
+I'll have to learn more about the Ionic framework although I have used it a little bit in the past, as well as learning Spring REST.
 
-https://www.pivotaltracker.com/projects/2184784
+https://trello.com/b/bfQwsBv0/capstone
