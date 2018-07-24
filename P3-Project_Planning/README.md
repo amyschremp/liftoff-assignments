@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![Wireframes](/images/headstrong-wireframes.pdf)
+https://www.dropbox.com/s/t0c3drlwp5t9q70/headstrong_wireframes.pdf?dl=0
 
 ### Project Tracker
 
