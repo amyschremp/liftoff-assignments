@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+https://www.dropbox.com/s/33zpvwk5ttzpx5h/Headstrong%20Presentation.pdf?dl=0
